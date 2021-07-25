@@ -1,0 +1,6 @@
+# from galaxy
+- src: nginxinc.nginx
+# from github
+- src: https://github.com/freemanpolys/ansible-hello-role
+  version: main
+  name: ansible-hello-role
